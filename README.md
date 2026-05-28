@@ -4,7 +4,7 @@
 [app下载](https://play.google.com/store/apps/details?id=com.kail.location)
 
 [传感器参数](传感器参数.md)
-日志在/storage/emulated/0/Documents/KailLocation/logs/
+日志可以在设置中导出
 
 [中文说明](README.md) | [English README](README_EN.md)
 
